@@ -50,12 +50,12 @@ career-profile:
         I am interested in electron transfer processes, directed evolution and bioelectronic devices.
       
 education:
-    - degree: PhD in Bioscience
+    - degree: PhD in Biosciences
       university: University of Rosario
       time: Sep 2014 - Mar 2020
       details: |
         
-    - degree: Licenciada in Biotechnology (Eq. to MSc)
+    - degree: Licenciada en Biotecnología (Eq. to MSc)
       university: University of Rosario 
       time: 2006 - 2012
       details: |
@@ -70,61 +70,27 @@ experiences:
     - role: PhD Student
       time: 2014 - 2020
       company: Laboratorio de Metaloproteínas - Instituto de Biología Molecular y Celular de Rosario
-      website: www.ibr-conicet.gov.ar
+      link: www.ibr-conicet.gov.ar
       details: |
-        During my PhD, I worked in the mechanisms of biogenesis of Cytochrome c Oxidase from Arabidopsis thaliana, particularly, the assembly of a copper site (CuA).  With this aim I first designed and engineered a chimeric protein (Tt3LAt), which mimics the CoxII subunit of A. thaliana, being stable in solution. I achieve this by engineering the functional part of A. thaliana CoxII into the thermostable scaffold from Thermus thermophilus’ homolog protein. I characterized spectroscopically and functionally this protein in its apo and copper-bound forms. I performed and analyzed the electronic absorption and EPR spectra of the oxidized CuA protein and characterized the site. I also assigned and analyzed the paramagnetically shifted NMR signals from the coordinating residues. Working in collaboration we also solved the copper-bound crystal structure of the proteins (PDB 6PTT). The analysis of all this data revealed novel features about the electron transfer pathways in CuA proteins (Morgada et al., ChemComm, 2020). Afterward, I expressed and purified a putative assembly factor of A. thaliana Cox II (Hcc1). I showed that It is a copper-binding protein, being able to bind both Cu(I) and Cu(II) with high affinity. I characterized spectroscopically (by UV-Vis, CD, NMR, EPR) the Cu(II) binding site and, in collaboration, we solved the structure of the Cu(I)-bound form (PDB 6N5U). Finally, I assessed the functional features of this protein by in vitro NMR experiments. I showed that it is a copper metallochaperone, inserting two copper ions into the CuA site from Tt3LAt (Llases et al., FEBS J. 2019).
-
-    - role: UI Developer
+        
+        
+    - role: Research Fellow
       time: 2012 - 2014
-      company: Amazon, London
+      company: Laboratorio de Neurobiología Estrutural - Instituto de Biología Molecular y Celular de Rosario
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: > 
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designe<ezdxfgd to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+     
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Unexpected electron spin density on the axial methionine ligand in CuA suggests its involvement on electron transfer pathways
+        link: "https://pubs.rsc.org/en/content/articlelanding/2020/cc/c9cc08883k#!divAbstract"
+        authors: Morgada MN, **Llases ME**, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
+        conference: 
+        
+      - title: 
         link: "#"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
