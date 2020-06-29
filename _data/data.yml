@@ -93,29 +93,29 @@ publications:
         
       - title: 
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: 
+        conference: 
 
-      - title: A syntax directed compiler for Algol 60
+      - title: 
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: 
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Protein Engineering
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Molecular Biology
         level: 98%
 
-      - name: Angular
+      - name: Spectroscopy
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Python
+        level: 25%
 
       - name: Sketch & Photoshop
         level: 100%
