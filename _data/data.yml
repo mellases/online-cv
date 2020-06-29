@@ -45,9 +45,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-    My profile is predominantly technical. 
-    I love fixing things, optimizing processes, and finding unconventional solutions to problems.
-    I am interested in electron transfer processes, directed evolution and bioelectronic devices.
+        My profile is predominantly technical. 
+        I love fixing things, optimizing processes, and finding unconventional solutions to problems.
+        I am interested in electron transfer processes, directed evolution and bioelectronic devices.
       
 education:
     - degree: PhD in Bioscience
