@@ -7,9 +7,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 
-    tagline: 
-    avatar: deep.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: María Eugenia Llases
+    tagline: Ph. D. Biosciences
+    avatar: Foto.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: 
