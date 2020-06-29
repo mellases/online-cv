@@ -1,6 +1,5 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
-    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
 
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
@@ -39,7 +38,7 @@
     {% endif %}
 
     {% if sidebar.orcid %}
-    <li class="orcid"><span class="iconify" data-icon="fa-brands:orcid" data-inline="false"></span>
+    <li class="orcid"><i class="fa fa-orcid"></i>
       <a href="http://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
     </li>
     {% endif %}
