@@ -64,14 +64,14 @@ experiences:
     - role: Consultant
       time: Mar 2020 - Present
       company: CASPR Biotech, San Francisco
-      link: caspr.bio/
+      link: "caspr.bio"
       details: |
         Development of CRISPR-based diagnostic method for COVID-19.
         
     - role: PhD Student
       time: 2014 - 2020
       company: Laboratorio de Metaloproteínas - Instituto de Biología Molecular y Celular de Rosario
-      link: ibr-conicet.gov.ar
+      link: "ibr-conicet.gov.ar"
       details: |
         
         
