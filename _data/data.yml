@@ -1,4 +1,4 @@
-#
+# 
 # Be aware that even a small syntax  error here  can lead t o failures in  output.
 #
 
@@ -44,7 +44,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: | 
         My profile is predominantly technical. 
         I love fixing things, optimizing processes, and finding unconventional solutions to problems.
         I am interested in electron transfer processes, directed evolution and bioelectronic devices.
