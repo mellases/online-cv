@@ -77,7 +77,7 @@ experiences:
         
     - role: PhD Student
       time: 2014 - 2020
-      title: Laboratorio de Metaloproteínas - Instituto de Biología Molecular y Celular de Rosario # pongamole the company under title to add te hypertext
+      company: Laboratorio de Metaloproteínas - Instituto de Biología Molecular y Celular de Rosario 
       link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
       details: |
          Copper Metallochaperones, Assembly of Cytochrome c Oxidase, Metal sites in Proteins
@@ -93,14 +93,11 @@ experiences:
 publications:
     title: Publications
     intro: |
-     
     papers:
       - title: Unexpected electron spin density on the axial methionine ligand in CuA suggests its involvement on electron transfer pathways
         link: "https://pubs.rsc.org/en/content/articlelanding/2020/cc/c9cc08883k#!divAbstract"
         authors: Morgada MN‡, Llases ME‡, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
         conference: 2020 - Chemical Communications (RSC) 56, 1223-1226. 
-        
-        
         
       - title: Biochemistry of Copper Site Assembly in Heme-Copper Oxidases: A Theme with Variations.
         link: "https://www.mdpi.com/1422-0067/20/15/3830"
@@ -136,7 +133,6 @@ skills:
       - name: Python
         level: 25%
 
-      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
