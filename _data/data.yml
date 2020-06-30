@@ -33,26 +33,33 @@ sidebar:
  
 
     interests: 
-      - item:  
+      - item: Protein Engineering  
         link:
 
-      - item: 
+      - item: Directed Evolution
         link:
 
-      - item:  
+      - item: Electron transfer processes
         link:
+     
+      - item: Biological Energy Conversion
+        link:
+
+      - item: Bioelectronic Devices
+        link:
+        
 
 career-profile:
     title: Career Profile
     summary: | 
-        My profile is predominantly technical. 
-        I love fixing things, optimizing processes, and finding unconventional solutions to problems.
-        I am interested in electron transfer processes, directed evolution and bioelectronic devices.
+        My profile is predominantly technical. I love fixing things, optimizing processes, and finding unconventional solutions to problems.
+        I am interested in proteins as versatile building blocks for structural assemblies with tunable functions.
+        
       
 education:
     - degree: PhD in Biosciences
       university: University of Rosario
-      time: Sep 2014 - Mar 2020
+      time: 2014 - 2020
       details: |
         
     - degree: Licenciada en Biotecnología (Eq. to MSc)
@@ -70,15 +77,17 @@ experiences:
         
     - role: PhD Student
       time: 2014 - 2020
-      company: Laboratorio de Metaloproteínas - Instituto de Biología Molecular y Celular de Rosario
-      link: "http://www.ibr-conicet.gov.ar/"
+      title: Laboratorio de Metaloproteínas - Instituto de Biología Molecular y Celular de Rosario # pongamole the company under title to add te hypertext
+      link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
       details: |
+         Copper Metallochaperones, Assembly of Cytochrome c Oxidase, Metal sites in Proteins
         
         
     - role: Research Fellow
       time: 2012 - 2014
       company: Laboratorio de Neurobiología Estrutural - Instituto de Biología Molecular y Celular de Rosario
       details: |
+          Amyloid forming proteins, Alpha synuclein, Inhibition of amyloid aggregation, Drug discovery
         
 
 publications:
@@ -88,18 +97,25 @@ publications:
     papers:
       - title: Unexpected electron spin density on the axial methionine ligand in CuA suggests its involvement on electron transfer pathways
         link: "https://pubs.rsc.org/en/content/articlelanding/2020/cc/c9cc08883k#!divAbstract"
-        authors: Morgada MN, **Llases ME**, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
-        conference: 
+        authors: Morgada MN‡, Llases ME‡, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
+        conference: 2020 - Chemical Communications (RSC) 56, 1223-1226. 
         
-      - title: 
-        link: "#"
-        authors: 
+        
+        
+      - title: Biochemistry of Copper Site Assembly in Heme-Copper Oxidases: A Theme with Variations.
+        link: "https://www.mdpi.com/1422-0067/20/15/3830"
+        authors: Llases M-E‡, Morgada MN‡, Vila AJ 
         conference: 
 
-      - title: 
-        link: "#"
-        authors: 
-        conference: 
+      - title: Arabidopsis thaliana Hcc1 is a Sco-like metallochaperone for CuA assembly in Cytochrome c Oxidase.
+        link: "https://doi.org/10.1111/febs.15016"
+        authors: Llases M-E, Lisa M-N, Morgada MN, Giannini E, Alzari PM, Vila AJ
+        conference: 2019 - FEBS Journal (FEBS Press) 287, 4, 749-762.
+        
+      - title: Fine Tuning of Functional Features of the CuA Site by Loop-Directed Mutagenesis
+        link: https://pubs.acs.org/doi/10.1021/acs.inorgchem.8b03244
+        authors: Zitare UA, Szuster J, Santalla MC, Llases ME, Morgada MN, Vila AJ, Murgida DH*
+        conference: 2019 - Inorganic Chemistry (ACS Publications) 58, 3, 2149–21575.
 
 skills:
     title: Skills &amp; Proficiency
@@ -109,16 +125,18 @@ skills:
         level: 98%
 
       - name: Molecular Biology
-        level: 98%
+        level: 75%
 
       - name: Spectroscopy
-        level: 98%
+        level: 90%
+        
+      - name: Bioinorganic chemistry
+        level: 95%
 
       - name: Python
         level: 25%
 
-      - name: Sketch & Photoshop
-        level: 100%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
