@@ -1,6 +1,6 @@
 # 
 # Be aware that e ven a small syn tax  err or here  can lead t o f ailures in  output.
-# 
+#  
 
 sidebar:
     about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
