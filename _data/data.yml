@@ -177,31 +177,21 @@ courses:
     title: COURSES
     intro: |
     papers:
-      - title: Advanced Practical Course on In-Cell NMR & Symposium on Protein Post-translational modifications by NMR”
-        link: 
-        authors: (2019) IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina
-        conference: 
+      - title: Advanced Practical Course on In-Cell NMR & Symposium on Protein Post-translational modifications by NMR (2019) IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina
         
-      - title: Sao Paulo school on multidimendional NMR in structural biology
-        authors: (2016) Instituto de química, Universidad de Sao Paulo, Brasil
+      - title: Sao Paulo school on multidimendional NMR in structural biology (2016) Instituto de química, Universidad de Sao Paulo, Brasil
         
-      - title: Proteomics. Key tool toward biomarkers discovery and evaluation
-        authors: (2014) IBYME-CONICET, CABA, Buenos Aires, Argentina
+      - title: Proteomics. Key tool toward biomarkers discovery and evaluation (2014) IBYME-CONICET, CABA, Buenos Aires, Argentina
         
-      - title: NMR Spectroscopy of Biomacromolecules
-        authors: (2016) Facultad de Ciencias Bioquímicas y Farmacéuticas (FbioyF), UNR , Sante Fe, Argentina
+      - title: NMR Spectroscopy of Biomacromolecules (2016) Facultad de Ciencias Bioquímicas y Farmacéuticas (FbioyF), UNR , Sante Fe, Argentina
         
-      - title: Structure-function relationship in proteins
-        authors: (2013) FbioyF, UNR , Sante Fe, Argentina 
+      - title: Structure-function relationship in proteins (2013) FbioyF, UNR , Sante Fe, Argentina 
         
-      - title: Biophysical Techniques for the Study of Intermolecular Interactions in Structural Biology
-        authors: (2012) Leloir Institute, Buenos Aires, Argentina
+      - title: Biophysical Techniques for the Study of Intermolecular Interactions in Structural Biology (2012) Leloir Institute, Buenos Aires, Argentina
         
-      - title: Biomolecules Spectroscopy
-        authors: (2012) FbioyF, UNR, Santa Fe, Argentina
+      - title: Biomolecules Spectroscopy (2012) FbioyF, UNR, Santa Fe, Argentina
 
-      - title: Drug Design and Discovery
-        authors: (2011) bioyF, UNR, Santa Fe, Argentina
+      - title: Drug Design and Discovery (2011) bioyF, UNR, Santa Fe, Argentina
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
