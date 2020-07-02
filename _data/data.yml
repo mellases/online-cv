@@ -151,11 +151,11 @@ projects:
     title: Selected Conferences
     intro: > 
     assignments:
-      - title: Bioinorganic Chemistry - Gordon Research Seminar (GRS) and Gordon Research Conference (GRC), Ventura, California, 2019.
+      - title: Bioinorganic Chemistry "-" Gordon Research Seminar (GRS) and Gordon Research Conference (GRC), Ventura, California, 2019.
         link: "https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/"
         tagline: "Oral presentation and Poster: "Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase""
         
-      - title: EMBO Workshop: Enzymes, biocatalysis and chemical biology: The new frontiers, Pavía, Italy, 2018
+      - title: "EMBO Workshop: Enzymes, biocatalysis and chemical biology: The new frontiers, Pavía, Italy, 2018"
         link: "https://meetings.embo.org/event/18-biocatalysis"
         tagline: "Oral presentation: "Biogenesis of a copper center in plant cytochrome c oxidase""
         
