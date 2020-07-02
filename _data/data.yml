@@ -145,8 +145,31 @@ projects:
     title: Conferences
     intro:   
     assignments:
+      - title: Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase
+        link: https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/
+        tagline: Bioinorganic Chemistry - Gordon Research Seminar (GRS) and Gordon Research Conference (GRC), Ventura, California.
+        
       - title: 
         link: 
-        tagline:  
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
+        
+      - title: 
+        link: 
+        tagline: 
+        
+
+
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
