@@ -173,8 +173,34 @@ projects:
         link: "https://auremn.org/ismar2013/"
         tagline: Poster presentation - "The role of hydrophobic and aromatic interactions on the amyloid assembly of alpha-synuclein. An NMR View."       
         
+courses:
+    title: COURSES
+    intro: |
+    papers:
+      - title: Advanced Practical Course on In-Cell NMR & Symposium on Protein Post-translational modifications by NMR”
+        link: 
+        authors: IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina, 2019
         
+      - title: Sao Paulo school on multidimendional NMR in structural biology
+        authors: Instituto de química, Universidad de Sao Paulo, Brasil, 2016
+        
+      - title: Proteomics: Key tool toward biomarkers discovery and evaluation
+        authors: IBYME-CONICET, CABA, Buenos Aires, Argentina, 2014
+        
+      - title: NMR Spectroscopy of Biomacromolecules
+        authors: Facultad de Ciencias Bioquímicas y Farmacéuticas (FbioyF), UNR , Sante Fe, Argentina, 2016
+        
+      - title: Structure-function relationship in proteins
+        authors: FbioyF, UNR , Sante Fe, Argentina, 2013
+        
+      - title: Biophysical Techniques for the Study of Intermolecular Interactions in Structural Biology
+        authors: Leloir Institute, Buenos Aires, Argentina, 2012
+        
+      - title: Biomolecules Spectroscopy
+        authors: FbioyF, UNR, Santa Fe, Argentina, 2012
 
+      - title: Drug Design and Discovery
+        authors: FbioyF, UNR, Santa Fe, Argentina, 2011
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
