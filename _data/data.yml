@@ -159,7 +159,21 @@ projects:
         link: "https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/"
         tagline: Oral Communication and Poster - "Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase"
         
-      
+      - title: EMBO Workshop: Enzymes, biocatalysis and chemical biology':' The new frontiers, Pavía, Italy, 2018
+        link: "https://meetings.embo.org/event/18-biocatalysis"
+        tagline: "Oral presentation: "Biogenesis of a copper center in plant cytochrome c oxidase""
+
+      - title: "18th International Conference in Bioinorganic Chemistry, Florianópolis, Brasil, 2017"
+        link: "https://icbic18.weebly.com/"
+        tagline: "Poster: "Biogenesis of A.thaliana CuA':' unusual double function for Sco1""
+        
+      - title: "V Latin American Meeting of Biological Inorganic Chemistry, Santiago de Queretaro, México, 2017"
+        link: 
+        tagline: "Oral presentation and poster - "Biogenesis of a copper center in plant cytocrome c oxidase""
+        
+      - title: "18th International Society of Magnetic Resonance Meeting - ISMAR 2013, Rio de Janeiro, Brazil, 2013"
+        link: "https://auremn.org/ismar2013/"
+        tagline: "Poster presentation - "The role of hydrophobic and aromatic interactions on the amyloid assembly of alpha-synuclein: An NMR View""       
         
         
 
