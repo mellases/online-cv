@@ -150,8 +150,8 @@ skills:
 projects:
     title: Selected Conferences
     intro:   
-    assignments: 
-      - title: Bioinorganic Chemistry - Gordon Research Seminar (GRS) and Gordon Research Conference (GRC), Ventura, California, 2019.
+    assignments:
+      - title: Bioinorganic Chemistry
         link: "https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/"
         tagline: "Oral presentation and Poster: "Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase""
         
