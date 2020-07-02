@@ -1,0 +1,32 @@
+{% assign courses = site.data.data.courses %}
+{% if courses %}
+<section class="section courses-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ courses.title }}
+  </h2>
+
+  {% if courses.intro %}
+  <div class="intro">
+    {{ courses.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for course in courses.papers %}
+  <div class="item">
+    {% if course.link %}
+      <li><a href="{{ course.link }}">{{ course.title }}</a></li>
+    {% else %}
+      <li>{{ course.title }}</li>
+    {% endif %}
+    <div class="course-authors">{{ course.authors }}</div>
+    <div class="course-conference">{{ course.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
