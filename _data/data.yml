@@ -179,29 +179,29 @@ courses:
     papers:
       - title: Advanced Practical Course on In-Cell NMR & Symposium on Protein Post-translational modifications by NMR”
         link: 
-        authors: IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina
-        conference: "2019"
+        authors: (2019) IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina
+        conference: 
         
       - title: Sao Paulo school on multidimendional NMR in structural biology
-        authors: Instituto de química, Universidad de Sao Paulo, Brasil, 2016
+        authors: (2016) Instituto de química, Universidad de Sao Paulo, Brasil
         
       - title: Proteomics. Key tool toward biomarkers discovery and evaluation
-        authors: IBYME-CONICET, CABA, Buenos Aires, Argentina, 2014
+        authors: (2014) IBYME-CONICET, CABA, Buenos Aires, Argentina
         
       - title: NMR Spectroscopy of Biomacromolecules
-        authors: Facultad de Ciencias Bioquímicas y Farmacéuticas (FbioyF), UNR , Sante Fe, Argentina, 2016
+        authors: (2016) Facultad de Ciencias Bioquímicas y Farmacéuticas (FbioyF), UNR , Sante Fe, Argentina
         
       - title: Structure-function relationship in proteins
-        authors: FbioyF, UNR , Sante Fe, Argentina, 2013
+        authors: (2013) FbioyF, UNR , Sante Fe, Argentina 
         
       - title: Biophysical Techniques for the Study of Intermolecular Interactions in Structural Biology
-        authors: Leloir Institute, Buenos Aires, Argentina, 2012
+        authors: (2012) Leloir Institute, Buenos Aires, Argentina
         
       - title: Biomolecules Spectroscopy
-        authors: FbioyF, UNR, Santa Fe, Argentina, 2012
+        authors: (2012) FbioyF, UNR, Santa Fe, Argentina
 
       - title: Drug Design and Discovery
-        authors: FbioyF, UNR, Santa Fe, Argentina, 2011
+        authors: (2011) bioyF, UNR, Santa Fe, Argentina
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
