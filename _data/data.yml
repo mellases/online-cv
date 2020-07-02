@@ -141,6 +141,12 @@ skills:
       - name: Python
         level: 25%
 
+      - name: Project development
+        level: 85%
+        
+      - name: Project Writing - Pursuing Funding
+        level: 95%
+
 projects:
     title: Selected Conferences
     intro:   
