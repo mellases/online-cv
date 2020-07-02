@@ -154,7 +154,11 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: What the fuch do you want from me
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        
+      - title: Velocity
         link: "https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/"
         tagline: "Oral presentation and Poster: "Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase""
         
