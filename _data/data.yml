@@ -179,7 +179,8 @@ courses:
     papers:
       - title: Advanced Practical Course on In-Cell NMR & Symposium on Protein Post-translational modifications by NMR”
         link: 
-        authors: IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina, 2019
+        authors: IBR-CONICET-UNR and Plataforma Argentina de Metabolómica y Biología Estructural (PLABEM), Rosario, Argentina
+        conference: "2019"
         
       - title: Sao Paulo school on multidimendional NMR in structural biology
         authors: Instituto de química, Universidad de Sao Paulo, Brasil, 2016
