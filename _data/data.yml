@@ -68,6 +68,14 @@ education:
       details: |
         
 experiences:
+
+ - role: Postdoc Researcher
+      time: 2020 - Present
+      company: Lab. de Metaloproteínas - IBR-CONICET-UNR, Rosario, Argentina 
+      link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
+      details: |
+         Copper Metallochaperones, Assembly of Cytochrome c Oxidase, Metal sites in Proteins
+         
     - role: Consultant
       time: Mar 2020 - Present
       company: CASPR Biotech - Indiebio - San Francisco, CA, USA
@@ -133,6 +141,16 @@ skills:
       - name: Python
         level: 25%
 
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
