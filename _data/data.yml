@@ -199,31 +199,31 @@ awards:
     papers:    
       - title: 2020 Postdoctoral Fellowship
         link: 
-        authors: National Research Council; Argentina (CONICET) 
+        authors:    National Research Council; Argentina (CONICET) 
         conference: 
  
       - title: 2019 Carl Storm International Diversity (CSID) Award
         link: 
-        authors: Gordon Research Conferences (GRC)
+        authors:    Gordon Research Conferences (GRC)
         conference: 
 
       - title: 2018 EMBO Fellowship for Workshop ":" Enzymes, biocatalysis and chemical biology. The new frontiers.
-        authors: European Molecular Biology Organization (EMBO)
+        authors:    European Molecular Biology Organization (EMBO)
        
       - title:  2017 Ph.D. Finalization Fellowship
-        authors: CONICET
+        authors:    CONICET
 
       - title:  2016 Society of Biological Inorganic Chemistry (SBIC) Fellowship for IV Latin American Meeting of Bioinorganic Chemistry (LABIC)
-        authors: Society of Biological Inorganic Chemistry (SBIC)
+        authors:    Society of Biological Inorganic Chemistry (SBIC)
        
       - title:  2014 Initial Research Fellowship
-        authors: Federal Support (CONICET - ANPCyT)
+        authors:    Federal Support (CONICET - ANPCyT)
        
       - title:  2011 Research Fellowship to fund Undergraduate Research Activities
-        authors: National University of Rosario (UNR)
+        authors:    National University of Rosario (UNR)
        
       - title:  2009 and 2010 National Program of University Fellowships
-        authors: National Education Ministry (Argentina)
+        authors:    National Education Ministry (Argentina)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> 
