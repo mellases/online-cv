@@ -195,6 +195,8 @@ courses:
       
 awards:
     title: Awards - Funding
+    intro: |
+    papers:
     
       - title: 2020 Postdoctoral Fellowship
         link: 
