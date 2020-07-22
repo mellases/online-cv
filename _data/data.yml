@@ -71,7 +71,7 @@ education:
 experiences:
 
     - role: Postdoc Researcher
-      time: 2020 - Present
+      time: Apr 2020 - Present
       company: Lab. de Metaloproteínas - IBR-CONICET-UNR, Rosario, Argentina 
       link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
       details: |
@@ -85,7 +85,7 @@ experiences:
         Development of CRISPR-based diagnostic method for COVID-19.
         
     - role: PhD Student
-      time: 2014 - 2020
+      time: Sep 2014 - Mar 2020
       company: Lab. de Metaloproteínas - IBR-CONICET-UNR, Rosario, Argentina 
       link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
       details: |
@@ -93,7 +93,7 @@ experiences:
         
         
     - role: Research Fellow
-      time: 2012 - 2014
+      time: Jul 2012 - Ago 2014
       company: Lab. de Neurobiología Estrutural - IBR-CONICET-UNR, Rosario, Argentina
       details: |
           Amyloid forming proteins, Alpha synuclein, Inhibition of amyloid aggregation, Drug discovery
@@ -108,7 +108,7 @@ publications:
         authors: Morgada MN‡, Llases ME‡, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
         conference: 2020 - Chemical Communications (RSC) 56, 1223-1226. 
         
-      - title: Biochemistry of Copper Site Assembly in Heme-Copper Oxidases, A Theme with Variations.
+      - title: "Biochemistry of Copper Site Assembly in Heme-Copper Oxidases: A Theme with Variations"
         link: "https://www.mdpi.com/1422-0067/20/15/3830"
         authors: Llases M-E‡, Morgada MN‡, Vila AJ 
         conference: 2019 - International Journal of Molecular Sciences (MDPI) 20, 3830-3838.
@@ -129,15 +129,12 @@ skills:
     toolset:
       - name: Protein Engineering
         level: 98%
-
+        
+      - name: Bioinorganic chemistry - Spectroscopy
+        level: 95%
+        
       - name: Molecular Biology
         level: 75%
-
-      - name: Spectroscopy
-        level: 90%
-        
-      - name: Bioinorganic chemistry
-        level: 95%
 
       - name: Python
         level: 25%
@@ -157,13 +154,13 @@ projects:
         link: "https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/"
         tagline: Oral Communication and Poster - "Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase"
         
-      - title: EMBO Workshop. Enzymes, biocatalysis and chemical biology; The new frontiers, Pavía, Italy, 2018
+      - title: "EMBO Workshop. Enzymes, biocatalysis and chemical biology: The new frontiers, Pavía, Italy, 2018"
         link: "https://meetings.embo.org/event/18-biocatalysis"
         tagline: Oral presentation - "Biogenesis of a copper center in plant cytochrome c oxidase""
 
       - title: 18th International Conference in Bioinorganic Chemistry, Florianópolis, Brasil, 2017
         link: "https://icbic18.weebly.com/"
-        tagline: Poster - "Biogenesis of A.thaliana CuA. Unusual double function for Sco1"
+        tagline: Poster - "Biogenesis of A. thaliana CuA: Unusual double function for Sco1"
         
       - title: V Latin American Meeting of Biological Inorganic Chemistry, Santiago de Queretaro, México, 2017
         link: 
@@ -171,7 +168,7 @@ projects:
         
       - title: 18th International Society of Magnetic Resonance Meeting - ISMAR 2013, Rio de Janeiro, Brazil, 2013
         link: "https://auremn.org/ismar2013/"
-        tagline: Poster presentation - "The role of hydrophobic and aromatic interactions on the amyloid assembly of alpha-synuclein. An NMR View."       
+        tagline: Poster presentation - "The role of hydrophobic and aromatic interactions on the amyloid assembly of alpha-synuclein: An NMR View."       
         
 courses: # layout copied from publications
     title: COURSES
