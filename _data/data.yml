@@ -160,7 +160,7 @@ projects:
 
       - title: 18th International Conference in Bioinorganic Chemistry, Florianópolis, Brasil, 2017
         link: "https://icbic18.weebly.com/"
-        tagline: "Poster - "Biogenesis of A. thaliana CuA: Unusual double function for Sco1""
+        tagline: Poster - "Biogenesis of A. thaliana CuA. Unusual double function for Sco1"
         
       - title: V Latin American Meeting of Biological Inorganic Chemistry, Santiago de Queretaro, México, 2017
         link: 
@@ -168,7 +168,7 @@ projects:
         
       - title: 18th International Society of Magnetic Resonance Meeting - ISMAR 2013, Rio de Janeiro, Brazil, 2013
         link: "https://auremn.org/ismar2013/"
-        tagline: Poster presentation - "The role of hydrophobic and aromatic interactions on the amyloid assembly of alpha-synuclein: An NMR View."       
+        tagline: Poster presentation - "The role of hydrophobic and aromatic interactions on the amyloid assembly of alpha-synuclein. An NMR View."       
         
 courses: # layout copied from publications
     title: COURSES
