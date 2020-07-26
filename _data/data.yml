@@ -97,7 +97,7 @@ experiences:
         
     - role: Research Fellow
       time: Jul 2012 - Ago 2014
-      company: Lab. de Neurobiología Estrutural - IBR-CONICET-UNR, Rosario, Argentina
+      company: Lab. de Neurobiología Estructural - IBR-CONICET-UNR, Rosario, Argentina
       details: |
           Amyloid forming proteins, Alpha synuclein, Inhibition of amyloid aggregation, Drug discovery
         
@@ -108,12 +108,12 @@ publications:
     papers:
       - title: Unexpected electron spin density on the axial methionine ligand in CuA suggests its involvement on electron transfer pathways
         link: "https://pubs.rsc.org/en/content/articlelanding/2020/cc/c9cc08883k#!divAbstract"
-        authors: Morgada MN‡, Llases ME‡, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
+        authors: Morgada MN*, Llases ME*, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
         conference: 2020 - Chemical Communications (RSC) 56, 1223-1226. 
         
       - title: "Biochemistry of Copper Site Assembly in Heme-Copper Oxidases: A Theme with Variations"
         link: "https://www.mdpi.com/1422-0067/20/15/3830"
-        authors: Llases M-E‡, Morgada MN‡, Vila AJ 
+        authors: Llases M-E*, Morgada MN*, Vila AJ 
         conference: 2019 - International Journal of Molecular Sciences (MDPI) 20, 3830-3838.
 
       - title: Arabidopsis thaliana Hcc1 is a Sco-like metallochaperone for CuA assembly in Cytochrome c Oxidase.
