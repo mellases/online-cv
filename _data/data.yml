@@ -55,7 +55,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-        My profile is scientific / technical. I enjoy fixing things, optimizing processes, and finding unconventional solutions to problems. I am always looking forward to learn something new.
+        My profile is scientific / technical. I enjoy fixing things, optimizing processes, and finding solutions to problems. I am always looking forward to learn something new.
         
         I am interested in proteins as building blocks for structural assemblies with tunable functions.
         
@@ -75,7 +75,7 @@ experiences:
 
     - role: Scientist
       time: Sep 2020 - Present
-      company: CASPR Biotech 
+      company: CASPR Biotech - Rosario, Argentina / San Francisco, CA, USA 
       link: "https://caspr.bio/"
       details: |
         Protein Engineering, CRISPR-based diagnostics, CRISPR Cas enzymes
@@ -87,14 +87,8 @@ experiences:
       details: |
          Copper Metallochaperones, Assembly of Cytochrome c Oxidase, Metal sites in Proteins
          
-    - role: Consultant
-      time: Mar 2020 - Jun 2020
-      company: CASPR Biotech - Indiebio - San Francisco, CA, USA
-      link: "https://caspr.bio/"
-      details: |
-        CRISPR-based diagnostics, CRISPR Cas enzymes
         
-    - role: PhD Student
+    - role: PhD Candidate
       time: Sep 2014 - Mar 2020
       company: Lab. de Metaloproteínas - IBR-CONICET-UNR, Rosario, Argentina 
       link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
