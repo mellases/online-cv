@@ -154,6 +154,10 @@ projects:
     intro: >
     assignments:
     
+      - title: Latin X Chem, Online Event, 2020.
+        link: "https://www.latinxchem.org/"
+        tagline: Poster (Honorable Mention) - "Mitochondrial Sco proteins can deliver Cu(II) to the CuA site"
+    
       - title: Bioinorganic Chemistry - Gordon Research Seminar (GRS) and Gordon Research Conference (GRC), Ventura, California, 2019.
         link: "https://www.grc.org/bioinorganic-chemistry-grs-conference/2019/"
         tagline: Oral Communication and Poster - "Toward the mechanisms of copper insertion in plant Cytochrome c Oxidase"
