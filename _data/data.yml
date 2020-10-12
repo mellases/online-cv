@@ -26,11 +26,10 @@ sidebar:
 
     languages:
       - idiom: Spanish
-        level: Native
+        level: 
 
       - idiom: English 
-        level: Fluent in written and spoken
-   
+        level:    
   
     interests: 
       - item: Protein Engineering  
