@@ -75,9 +75,9 @@ experiences:
     - role: Scientist
       time: Sep 2020 - Present
       company: CASPR Biotech - Rosario, Argentina  
-#      link: "https://caspr.bio/"
- #     details: |
-  #      Protein Engineering, CRISPR-based diagnostics, CRISPR Cas enzymes
+      #link: "https://caspr.bio/"
+      #details: |
+      #  Protein Engineering, CRISPR-based diagnostics, CRISPR Cas enzymes
 
     - role: External consultant
       time: Apr 2020 - Aug 2020
@@ -88,10 +88,10 @@ experiences:
         
     - role: Postdoc Researcher
       time: Apr 2020 - Aug 2020
-#      company: Lab. de Metaloproteínas - IBR-CONICET-UNR, Rosario, Argentina 
- #     link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
-  #    details: |
-   #      Copper Metallochaperones, Assembly of Cytochrome c Oxidase, Metal sites in Proteins
+      company: Lab. de Metaloproteínas - IBR-CONICET-UNR, Rosario, Argentina 
+      #link: "http://www.ibr-conicet.gov.ar/laboratorios/vila"
+      #details: |
+      #  Copper Metallochaperones, Assembly of Cytochrome c Oxidase, Metal sites in Proteins
          
         
     - role: PhD Candidate
