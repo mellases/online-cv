@@ -113,6 +113,11 @@ publications:
     title: Publications
     intro: |
     papers:
+      - title: 
+        link: "https://www.mdpi.com/1999-4915/13/3/420"
+        authors: Curti LA, Primost I, Valla S, Ibañez D, Olguin Perglione C, Repizo G, Lara J, Parcerisa I, Palacios AR, Llases ME, Rinflerch A, Barrios M, Pereyra Bonnet F, Gimenez CA, and Marcone DN
+        conference: 2021 - Viruses (MDPI) 13(3), 420. 
+    
       - title: Unexpected electron spin density on the axial methionine ligand in CuA suggests its involvement on electron transfer pathways
         link: "https://pubs.rsc.org/en/content/articlelanding/2020/cc/c9cc08883k#!divAbstract"
         authors: Morgada MN*, Llases ME*, Giannini E, Castro MA, Alzari PM , Murgida DH, Lisa MN and Vila AJ
