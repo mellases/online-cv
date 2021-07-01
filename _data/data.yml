@@ -76,8 +76,8 @@ experiences:
       time: Jun 2021 - Present
       company: Protein Design Laboratory, Institute for Protein Innovation (IPI), Harvard Institutes of Medicine,  Boston, MA, US   
       #link: "https://caspr.bio/"
-      #details: |
-      #  Protein Engineering, CRISPR-based diagnostics, CRISPR Cas enzymes
+      details: |
+        De novo protein design, Enzyme design, High Throughput methods for protein science
 
     - role: Scientist
       time: Sep 2020 - Jan 2021
