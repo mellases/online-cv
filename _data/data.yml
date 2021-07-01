@@ -54,9 +54,8 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: | 
-        My profile is scientific / technical. I enjoy fixing things, optimizing processes, and solving problems. I am always looking forward to learn something new.
-        
-        I am interested in understanding how proteins work, to be able to manipulate them rationally.
+        I am interested in understanding how proteins work, to be able to manipulate them rationally. 
+        I enjoy fixing stuff, optimizing processes, and solving problems. 
         
       
 education:
@@ -74,7 +73,7 @@ experiences:
     
     - role: Postdoctoral Fellow
       time: Jun 2021 - Present
-      company: Protein Design Laboratory, Institute for Protein Innovation (IPI), Harvard Institutes of Medicine,  Boston, MA, US   
+      company: Protein Design Laboratory, Institute for Protein Innovation (IPI), Harvard Institutes of Medicine - Boston, MA, US   
       #link: "https://caspr.bio/"
       details: |
         De novo protein design, Enzyme design, High Throughput methods for protein science
